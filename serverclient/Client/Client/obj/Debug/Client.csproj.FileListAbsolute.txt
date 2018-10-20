@@ -1,0 +1,7 @@
+F:\asmt\serverclient\Client\Client\bin\Debug\Client.exe.config
+F:\asmt\serverclient\Client\Client\bin\Debug\Client.exe
+F:\asmt\serverclient\Client\Client\bin\Debug\Client.pdb
+F:\asmt\serverclient\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\asmt\serverclient\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\asmt\serverclient\Client\Client\obj\Debug\Client.exe
+F:\asmt\serverclient\Client\Client\obj\Debug\Client.pdb

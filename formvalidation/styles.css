@@ -1,0 +1,53 @@
+body{
+    font-family: arial;
+    color: #333;
+}
+h1{
+    font-weight: normal;
+    margin: 20px auto;
+    text-align: center;
+}
+form{
+    width: 500px;
+    margin: 20px auto;
+}
+span{
+
+text-align:center;
+margin:10px;
+}
+input{
+  width:500px;
+  font-size:30px;
+border:border-box;
+padding:10px;
+ border: 3px solid #ccc;
+border-radius:5px;
+margin:20px;
+    
+ box-sizing: border-box;
+   
+  
+}
+input.valid{border-color:green;}
+input.invalid{border-color:red;}
+input + p {
+text-align:center;
+margin:0 10px;
+color:red;
+opacity:0;
+height:0;
+}
+input.invalid+ p{opacity:1;height:auto;}
+
+/*
+.simple-form input:invalid {
+  border-left-color: salmon;
+}
+input.invalid {
+  border: 2px dashed red;
+}
+
+input.valid {
+  border: 2px solid black;
+}*/

@@ -1,0 +1,7 @@
+F:\asmt\serverclient\server\server\obj\Debug\server.csprojAssemblyReference.cache
+F:\asmt\serverclient\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+F:\asmt\serverclient\server\server\bin\Debug\server.exe.config
+F:\asmt\serverclient\server\server\bin\Debug\server.exe
+F:\asmt\serverclient\server\server\bin\Debug\server.pdb
+F:\asmt\serverclient\server\server\obj\Debug\server.exe
+F:\asmt\serverclient\server\server\obj\Debug\server.pdb

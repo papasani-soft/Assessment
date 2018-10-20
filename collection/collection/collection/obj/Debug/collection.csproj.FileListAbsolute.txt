@@ -1,0 +1,10 @@
+F:\asmt\collection\collection\collection\obj\Debug\collection.csprojAssemblyReference.cache
+F:\asmt\collection\collection\collection\obj\Debug\collection.csproj.CoreCompileInputs.cache
+F:\asmt\collection\collection\collection\bin\Debug\collection.exe.config
+F:\asmt\collection\collection\collection\bin\Debug\collection.exe
+F:\asmt\collection\collection\collection\bin\Debug\collection.pdb
+F:\asmt\collection\collection\collection\bin\Debug\Newtonsoft.Json.dll
+F:\asmt\collection\collection\collection\bin\Debug\Newtonsoft.Json.xml
+F:\asmt\collection\collection\collection\obj\Debug\collection.csproj.CopyComplete
+F:\asmt\collection\collection\collection\obj\Debug\collection.exe
+F:\asmt\collection\collection\collection\obj\Debug\collection.pdb
